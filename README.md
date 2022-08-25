@@ -1,6 +1,6 @@
 # ULTIMATE-CALCULATOR
 
-Is a grading system and calculator program written in Python3. This program enable to calculate basic arithmetic operations like addition, subtraction, multiplication, division and exponential power. </h2></p>
+Is a grading system and calculator program written in Python3. This program enable to calculate basic arithmetic operations like addition, subtraction, multiplication, division and exponential power.
 
 ### For installation
 ````
