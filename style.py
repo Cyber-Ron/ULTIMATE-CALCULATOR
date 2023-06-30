@@ -1,4 +1,4 @@
-author = "           Programmed by Ronpogi15        " 
+author = "           Programmed by Ron        " 
 space = " " 
 dash = " ============================================== "
 logo = "          ULTIMATE-CALCULATOR                  "
