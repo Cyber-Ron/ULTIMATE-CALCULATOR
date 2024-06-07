@@ -9,7 +9,7 @@ $ apt install git -y
 ````
 
 ````
-$ git clone https://github.com/Crypt-tors/ULTIMATE-CALCULATOR.git
+$ git clone https://github.com/Cyber-Ron/ULTIMATE-CALCULATOR.git
 ````
 ````
 $ cd ULTIMATE-CALCULATOR
