@@ -1,4 +1,4 @@
-author = "           Programmed by Cryp-tors        " 
+author = "           Programmed by Cyber-Ron           " 
 space = " " 
 dash = " ============================================== "
 logo = "          ULTIMATE-CALCULATOR                  "
